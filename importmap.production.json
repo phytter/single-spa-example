@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@simpleagro/root-config": "https://simpleagro.fra1.digitaloceanspaces.com/simpleagro-root-config.js",
+    "@simpleagro/simple-sales": "https://simpleagro.fra1.digitaloceanspaces.com/simpleagro-simple-sales.js",
+    "@simpleagro/simple-field": "https://simpleagro.fra1.digitaloceanspaces.com/simpleagro-simple-field.js",
+    "@simpleagro/simple-utility": "https://simpleagro.fra1.digitaloceanspaces.com/simpleagro-simple-utility.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "applications": [
+    {
+      "name": "@simpleagro/simple-sales",
+      "package": "@simpleagro/simple-sales",
+      "activeWhen": "/sales",
+      "exact": false
+    },
+    {
+      "name": "@single-spa/welcome",
+      "package": "https://unpkg.com/single-spa-welcome@2.3.0/dist/single-spa-welcome.js",
+      "activeWhen": "/",
+      "exact": true
+    },
+    {
+      "name": "@simpleagro/simple-field",
+      "package": "@simpleagro/simple-field",
+      "activeWhen": "/field",
+      "exact": false
+    }
+  ]
+}
